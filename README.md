@@ -8,7 +8,7 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't give-up
-<img src="https://komarev.com/ghpvc/?username=MohammedShakib&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile Views" />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashiq.khan.583063) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashiq_khan0220) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashiquzzaman-khan-57b671362) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashiq2khan02@gmail.com) 
 

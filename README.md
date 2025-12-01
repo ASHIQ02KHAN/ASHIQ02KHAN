@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Ashiquzzaman%20Khan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20QA%20Enthusiast&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=23C5FA&background=00000000&center=true&vCenter=true&width=800&height=150&lines=Nice+to+meet+you!;I'm+Ashiquzzaman+Khan;>+Web+Developer_;>+QA+Enthusiast_" alt="Typing SVG" />
+</a>
 
 ### Web Developer | QA Enthusiast | Tech Explorer
 

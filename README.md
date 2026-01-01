@@ -27,12 +27,12 @@ I am a passionate developer currently focusing on **Web Development** and **Soft
 
 ---
 
-## 🧐 About Me
+##  About Me
 
-- 🔭 **Current Project:** Working on full-stack Web Development.
-- 🌱 **Learning:** Software Testing and Quality Assurance (STQA).
-- 👯 **Collaboration:** Open to collaborating on web projects.
-- 💬 **Ask me about:** SDLC, Web Dev, and Python.
+-  **Current Project:** Working on full-stack Web Development.
+-  **Learning:** Software Testing and Quality Assurance (STQA).
+-  **Collaboration:** Open to collaborating on web projects.
+-  **Ask me about:** SDLC, Web Dev, and Python.
 - ⚡ **Motto:** Persistence is key—I don't give up.
 
 ---
